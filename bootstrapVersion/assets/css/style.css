@@ -19,7 +19,7 @@ body {
     clear: both;
   }
   .jumbotron{
-    background: none;
+    background: #fff;
     margin: auto;
     width: 960px;
   }
@@ -86,7 +86,7 @@ body {
     float: right;
     margin: auto;
     margin-top: 40px;
-    
+
     text-align: center;
   }
   
@@ -137,7 +137,6 @@ body {
   .main-section {
     float: left;
     width: 100%;
-    
     padding: 30px;
     margin: 0 0 40px;
     background: #fff;
